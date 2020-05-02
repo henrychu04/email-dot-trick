@@ -6,18 +6,10 @@
   "dependencies": {
     "email-prompt": "^0.3.2"
   },
-  "devDependencies": {
-    "nexe": "^3.3.2"
-  },
+  "devDependencies": {},
   "scripts": {
-    "start": "node index.js",
-    "build": "nexe"
+    "start": "node index.js"
   },
   "author": "Henry Chu",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/username/repository.git"
-  },
-  "private": true
+  "license": "MIT"
 }
