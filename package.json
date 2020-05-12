@@ -10,6 +10,5 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Henry Chu",
-  "license": "MIT"
+  "author": "Henry Chu"
 }
